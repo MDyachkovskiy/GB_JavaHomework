@@ -1,0 +1,8 @@
+<resources >
+
+    <style name="Base.Theme.GB_JavaHomework" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.GB_JavaHomework" parent="Base.Theme.GB_JavaHomework" />
+</resources>
