@@ -2,5 +2,5 @@
 
 <p id="description">
 
-Java Language Homework on working with conditional operators</p>
+Java language homework on working with conditional operators</p>
 
